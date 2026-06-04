@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1,beIN SPORTS 1 HD
+http://51.255.81.190:8080/Bein-SPORTS-1/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 2 HD
+http://51.255.81.190:8080/Bein-SPORTS-2/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 3 HD
+http://51.255.81.190:8080/Bein-SPORTS-3/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 4 HD
+http://51.255.81.190:8080/Bein-SPORTS-4/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 5 HD
+http://51.255.81.190:8080/Bein-SPORTS-5/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 6 HD
+http://51.255.81.190:8080/Bein-SPORTS-6/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 7 HD
+http://51.255.81.190:8080/Bein-SPORTS-7/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 8 HD
+http://51.255.81.190:8080/Bein-SPORTS-8/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 9 HD
+http://51.255.81.190:8080/Bein-SPORTS-9/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 10 HD
+http://51.255.81.190:8080/Bein-SPORTS-10/playlist.m3u8
+
+#EXTINF:-1,beIN SPORTS MAX 1
+http://51.255.81.190:8080/Bein-SPORTS-MAX-1/playlist.m3u8
+#EXTINF:-1,beIN SPORTS MAX 2
+http://51.255.81.190:8080/Bein-SPORTS-MAX-2/playlist.m3u8
+#EXTINF:-1,beIN SPORTS MAX 3
+http://51.255.81.190:8080/Bein-SPORTS-MAX-3/playlist.m3u8
+#EXTINF:-1,beIN SPORTS MAX 4
+http://51.255.81.190:8080/Bein-SPORTS-MAX-4/playlist.m3u8
+
+#EXTINF:-1,Algeria 1
+http://51.255.81.190:8080/Algeria-1/playlist.m3u8
+#EXTINF:-1,Algeria 2
+http://51.255.81.190:8080/Algeria-2/playlist.m3u8
+#EXTINF:-1,Algeria 3 (A3)
+http://51.255.81.190:8080/Algeria-3/playlist.m3u8
+#EXTINF:-1,Algeria 4
+http://51.255.81.190:8080/Algeria-4/playlist.m3u8
+#EXTINF:-1,Algeria 6
+http://51.255.81.190:8080/Algeria-6/playlist.m3u8
+#EXTINF:-1,El Bilad TV
+http://51.255.81.190:8080/El-Bilad/playlist.m3u8
+#EXTINF:-1,Echourouk TV
+http://51.255.81.190:8080/Echourouk/playlist.m3u8
+#EXTINF:-1,Samira TV
+http://51.255.81.190:8080/Samira-TV/playlist.m3u8
+
+#EXTINF:-1,Cartoon Network Arabic
+http://51.255.81.190:8080/Cartoon-Network/playlist.m3u8
+
+#EXTINF:-1,bein Movies 1
+http://51.255.81.190:8080/Bein-MOVIES-1/playlist.m3u8
+#EXTINF:-1,MBC 2
+http://51.255.81.190:8080/MBC-2/playlist.m3u8
+#EXTINF:-1,MBC ACTION
+http://51.255.81.190:8080/MBC-Action/playlist.m3u8
+#EXTINF:-1,MBC Bollywood
+http://51.255.81.190:8080/MBC-Bollywood/playlist.m3u8
+#EXTINF:-1,OSN Movies Action
+http://51.255.81.190:8080/OSN_MOVIES_ACTION/playlist.m3u8
+#EXTINF:-1,OSN Movies
+http://51.255.81.190:8080/OSN_MOVIES/playlist.m3u8
+#EXTINF:-1,Dubai Sports HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2
+#EXTINF:-1,Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1,AL Arabiya
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,Al Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+
