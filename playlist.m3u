@@ -1,21 +1,15 @@
 #EXTM3U
 #EXTINF:-1,beIN SPORTS 1 HD
-http://195.181.246.101:80/stream/channels/bein1.m3u8
+http://vcp.9v.pl:80/live/G66/G66/9.ts
 
 #EXTINF:-1,beIN SPORTS 2 HD
-http://195.181.246.101:80/stream/channels/bein2.m3u8
+http://vcp.9v.pl:80/live/G66/G66/10.ts
 
 #EXTINF:-1,beIN SPORTS 3 HD
-http://195.181.246.101:80/stream/channels/bein3.m3u8
+http://vcp.9v.pl:80/live/G66/G66/11.ts
 
 #EXTINF:-1,Cartoon Network Arabic
 https://asmlive.akamaized.net/hls/live/2016408/cna/master.m3u8
 
-#EXTINF:-1,الجزائرية الأرضية الأولى
+#EXTINF:-1,الجزائرية الأرضية 1
 https://stream.entv.dz/hls/ch1.m3u8
-
-#EXTINF:-1,الجزائرية الثالثة A3
-https://stream.entv.dz/hls/a3.m3u8
-
-#EXTINF:-1,الجزائرية السادسة الإخبارية
-https://stream.entv.dz/hls/ch6.m3u8
